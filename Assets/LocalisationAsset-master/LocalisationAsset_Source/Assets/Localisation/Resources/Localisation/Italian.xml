@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document>
+  <string name="draw">PAREGGIO</string>
+  <string name="allfives">TUTTI E CINQUE</string>
+  <string name="block">BLOCCO</string>
+  <string name="level">Livello</string>
+  <string name="exit">ESCI DAL GIOCO</string>
+  <string name="player_num">NUMERO DI GIOCATORI</string>
+  <string name="twoplayers">Due giocatori</string>
+  <string name="fourplayers">Quattro giocatori</string>
+  <string name="quit_game">Vuoi uscire dal gioco?</string>
+  <string name="yes">SÌ </string>
+  <string name="no">No</string>
+  <string name="settings">IMPOSTAZIONI</string>
+  <string name="Game_Sounds">Audio gioco</string>
+  <string name="music">Musica gioco</string>
+  <string name="Device_Viberation">Vibrazione dispositivo</string>
+  <string name="tiles">Tessere</string>
+  <string name="themes">Temi</string>
+  <string name="endpoint">Punto finale</string>
+  <string name="profiletext">PROFILO</string>
+  <string name="win">VINTO</string>
+  <string name="lose">PERSO</string>
+  <string name="score">PUNTEGGIO</string>
+  <string name="changenick">CAMBIA NICKNAME</string>
+  <string name="chamgeavatar">CAMBIA AVATAR</string>
+  <string name="entertext">Inserisci testo...</string>
+  <string name="accept">ACCETTA</string>
+  <string name="continue">Continua</string>
+  <string name="scoretext">PUNTEGGIO</string>
+  <string name="scoretabletext">Tabella dei punteggi</string>
+  <string name="newgame">Nuova partita</string>
+  <string name="backtomenu">Torna al menu</string>
+  <string name="quitgametext">Vuoi davvero uscire dal gioco?</string>
+  <string name="avatar">Аvatar</string>
+  <string name="gamemusic">Game music</string>
+  <string name="pass">PASSA</string>
+  <string name="points">Punti</string>
+  <string name="bot1">Bot 1</string>
+  <string name="bot2">Bot 2</string>
+  <string name="bot3">Bot 3</string>
+  <string name="GARDEN">GIARDINO</string>
+  
+  
+</document>

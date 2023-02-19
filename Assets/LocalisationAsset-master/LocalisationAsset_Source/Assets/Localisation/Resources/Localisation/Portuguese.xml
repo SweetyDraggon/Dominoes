@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document>
+  <string name="draw">EMPATE</string>
+  <string name="allfives">TODOS CINCO</string>
+  <string name="block">BLOCO</string>
+  <string name="level">Nível</string>
+  <string name="exit">SAIR DO JOGO</string>
+  <string name="player_num">NÚMERO DE JOGADORES</string>
+  <string name="twoplayers">Dois jogadores</string>
+  <string name="fourplayers">Quatro jogadores</string>
+  <string name="quit_game">Quer sair do jogo?</string>
+  <string name="yes">SIM</string>
+  <string name="no">Nao</string>
+  <string name="settings">AJUSTES</string>
+  <string name="Game_Sounds">Sons do jogo</string>
+  <string name="music">Música do jogo</string>
+  <string name="Device_Viberation">Vibração do dispositivo</string>
+  <string name="tiles">Blocos</string>
+  <string name="themes">Temas</string>
+  <string name="endpoint">Ponto final</string>
+  <string name="profiletext">PERFIL</string>
+  <string name="win">VENCEU</string>
+  <string name="lose">PERDEU</string>
+  <string name="score">PONTUAÇÃO</string>
+  <string name="changenick">ALTERAR APELIDOO</string>
+  <string name="chamgeavatar">MUDAR AVATAR</string>
+  <string name="entertext">Digite o texto...</string>
+  <string name="accept">ACEITAR</string>
+  <string name="continue">CONTINUAR</string>
+  <string name="scoretext">PONTUAÇÃO</string>
+  <string name="scoretabletext">Tabela de pontuação</string>
+  <string name="newgame">Novo jogo</string>
+  <string name="backtomenu">Voltar ao menu</string>
+  <string name="quitgametext">Tem certeza que quer sair do jogo?</string>
+  <string name="avatar">AVATAR</string>
+  <string name="gamemusic">Música do jogo</string>
+  <string name="pass">PASSOU</string>
+  <string name="points">pontos</string>
+
+  <string name="bot1">Bot 1</string>
+  <string name="bot2">Bot 2</string>
+  <string name="bot3">Bot 3</string>
+  <string name="GARDEN">JARDIM</string>
+  
+  
+</document>

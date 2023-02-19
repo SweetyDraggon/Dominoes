@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document>
+  <string name="draw">Draw</string>
+  <string name="allfives">All FIVES</string>
+  <string name="block">BLOCK</string>
+  <string name="level">Level</string>
+  <string name="exit">Exit</string>
+  <string name="player_num">Number of players</string>
+  <string name="twoplayers">Two Players</string>
+  <string name="fourplayers">Four Players</string>
+  <string name="quit_game">Do you want to end this game?</string>
+  <string name="yes">Yes </string>
+  <string name="no">No</string>
+  <string name="settings">SETTINGS</string>
+  <string name="Game_Sounds">Game Sounds</string>
+  <string name="music">Music</string>
+  <string name="Device_Viberation">Device Viberation</string>
+  <string name="tiles">Titles</string>
+  <string name="themes">Themes</string>
+  <string name="endpoint">End Point</string>
+  <string name="profiletext">PROFILE</string>
+  <string name="win">Win</string>
+  <string name="lose">Lose</string>
+  <string name="score">SCORE</string>
+  <string name="changenick">CHANGE NAME</string>
+  <string name="chamgeavatar">CHANGE AVATAR</string>
+  <string name="entertext">Enter text...</string>
+  <string name="accept">Accept</string>
+  <string name="continue">Continue</string>
+  <string name="scoretext">SCORE</string>
+  <string name="scoretabletext">Score table</string>
+  <string name="newgame">New game</string>
+  <string name="backtomenu">Back to menu</string>
+  <string name="quitgametext">Are you shure to quit game?</string>
+  <string name="avatar">Аvatar</string>
+  <string name="gamemusic">Game music</string>
+  <string name="pass">PASS</string>
+  <string name="points">Points</string>
+
+  <string name="bot1">Bot 1</string>
+  <string name="bot2">Bot 2</string>
+  <string name="bot3">Bot 3</string>
+  <string name="GARDEN">GARDEN</string>
+  
+  
+</document>

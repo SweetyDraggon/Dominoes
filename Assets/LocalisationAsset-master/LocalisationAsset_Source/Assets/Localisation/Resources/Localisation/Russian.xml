@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document>
+  <string name="draw">КЛАССИКА</string>
+  <string name="allfives">ПЯТЕРОЧКА</string>
+  <string name="block">БЛОК</string>
+  <string name="level">Уровень</string>
+  <string name="exit">Выход</string>
+  <string name="player_num">Количество игроков</string>
+  <string name="twoplayers">Два игрока</string>
+  <string name="fourplayers">Четыре игрока</string>
+  <string name="quit_game">Вы хотите закончить эту игру?</string>
+  <string name="yes">ДА </string>
+  <string name="no">НЕТ</string>
+  <string name="settings">НАСТРОЙКИ</string>
+  <string name="Game_Sounds">Звуки</string>
+  <string name="music">Музыка</string>
+  <string name="Device_Viberation">Вибрация</string>
+  <string name="tiles">Косточки</string>
+  <string name="themes">Тема</string>
+  <string name="endpoint">Конечная точка</string>
+  <string name="profiletext">ПРОФИЛЬ</string>
+  <string name="win">Победы</string>
+  <string name="lose">Поражения</string>
+  <string name="score">СЧЕТ</string>
+  <string name="changenick">СМЕНИТЬ ИМЯ</string>
+  <string name="chamgeavatar">СМЕНИТЬ АВАТАР</string>
+  <string name="entertext">Введите текст...</string>
+  <string name="accept">Принять</string>
+  <string name="pass">ПАСС</string>
+  <string name="continue">Продолжить</string>
+  <string name="scoretext">СЧЕТ</string>
+  <string name="scoretabletext">Таблица очков</string>
+  <string name="newgame">Новая игра</string>
+  <string name="backtomenu">В главное меню</string>
+  <string name="quitgametext">Хотите покинуть игру?</string>
+  <string name="avatar">Аватар</string>
+  <string name="gamemusic">Игровая музыка</string>
+  <string name="points">Точки</string>
+  <string name="bot1">Бот 1</string>
+  <string name="bot2">Бот 2</string>
+  <string name="bot3">Бот 3</string>
+ <string name="GARDEN">САД</string>
+</document>

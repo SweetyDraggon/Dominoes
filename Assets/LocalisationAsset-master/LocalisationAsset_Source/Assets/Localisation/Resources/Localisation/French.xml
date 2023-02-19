@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document>
+  <string name="draw">MATCH NUL</string>
+  <string name="allfives">TOUS LES CINQ</string>
+  <string name="block">BLOC</string>
+  <string name="level">Niveau</string>
+  <string name="exit">QUITTER LE JEU</string>
+  <string name="player_num">NOMBRE DE JOUEURS</string>
+  <string name="twoplayers">Deux joueurs</string>
+  <string name="fourplayers">Quatre joueurs</string>
+  <string name="quit_game">Veux-tu quitter le jeu?</string>
+  <string name="yes">Oui</string>
+  <string name="no">Non</string>
+  <string name="settings">PARAMÈTRES</string>
+  <string name="Game_Sounds">Sons du jeu</string>
+  <string name="music">Musique de jeu</string>
+  <string name="Device_Viberation">Vibration de l'appareil</string>
+  <string name="tiles">Tuiles</string>
+  <string name="themes">Thèmes</string>
+  <string name="endpoint">Point de fin</string>
+  <string name="profiletext">PROFIL</string>
+  <string name="win">GAGNÉ</string>
+  <string name="lose">PERDU</string>
+  <string name="score">SCORE</string>
+  <string name="changenick">CHANGER LE SURNOM</string>
+  <string name="chamgeavatar">CHANGER L'AVATAR</string>
+  <string name="entertext">Saisir le texte…</string>
+  <string name="accept">ACCEPTER</string>
+  <string name="continue">Continuez</string>
+  <string name="scoretext">SCORE</string>
+  <string name="scoretabletext">Tableau des scores</string>
+  <string name="newgame">Nouvelle partie</string>
+  <string name="backtomenu">Retour au menu</string>
+  <string name="quitgametext">Veux-tu vraiment quitter le jeu?</string>
+  <string name="avatar">Аvatar</string>
+  <string name="gamemusic">Musique de jeu</string>
+  <string name="pass">PASSER</string>
+  <string name="points">Points</string>
+
+  <string name="bot1">Bot 1</string>
+  <string name="bot2">Bot 2</string>
+  <string name="bot3">Bot 3</string>
+  <string name="GARDEN">
+    JARDIN
+  </string>
+  
+  
+</document>

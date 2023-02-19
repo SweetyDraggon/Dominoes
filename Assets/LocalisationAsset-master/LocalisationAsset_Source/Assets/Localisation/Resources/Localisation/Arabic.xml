@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document>
+  <string name="draw">تعادل</string>
+  <string name="allfives">الخمسة كلهم</string>
+  <string name="block">غلق</string>
+  <string name="level">المستوى</string>
+  <string name="exit">الخروج من اللعبة</string>
+  <string name="player_num">عدد اللاعبين</string>
+  <string name="twoplayers">لاعبان</string>
+  <string name="fourplayers">أربعة لاعبين</string>
+  <string name="quit_game">هل ترغب في الانسحاب من اللعبة؟</string>
+  <string name="yes">نعم</string>
+  <string name="no">لا</string>
+  <string name="settings">الإعدادات</string>
+  <string name="Game_Sounds">أصوات اللعبة</string>
+  <string name="music">لعبة الموسيقى</string>
+  <string name="Device_Viberation">اهتزاز الجهاز</string>
+  <string name="tiles">البلاطات</string>
+  <string name="themes">الألوان</string>
+  <string name="endpoint">نقطة النهاية</string>
+  <string name="profiletext">ملف التعريف</string>
+  <string name="win">كسبت</string>
+  <string name="lose">خسرت</string>
+  <string name="score">النتيجة</string>
+  <string name="changenick">تغيير الاسم المستعار</string>
+  <string name="chamgeavatar">تغيير الأفاتار</string>
+  <string name="entertext">أدخل نصًا...</string>
+  <string name="accept">قبول</string>
+  <string name="continue">متابعة</string>
+  <string name="scoretext">النتيجة</string>
+  <string name="scoretabletext">الجدول النتيجة</string>
+  <string name="newgame">لعبة جديدة</string>
+  <string name="backtomenu">عودة إلى القائمة</string>
+  <string name="quitgametext">هل ترغب بالفعل في الانسحاب من اللعبة؟</string>
+  <string name="avatar">الأفاتار</string>
+  <string name="gamemusic">لعبة الموسيقى</string>
+  <string name="pass">اجتياز</string>
+  <string name="points">النقاط</string>
+
+  <string name="bot1">بوت 1</string>
+  <string name="bot2">بوت 2</string>
+  <string name="bot3">بوت3</string>
+  <string name="GARDEN">الحديقة</string>
+  
+  
+</document>
